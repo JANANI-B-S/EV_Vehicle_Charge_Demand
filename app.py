@@ -248,3 +248,4 @@ if multi_counties:
 
 st.success("Forecast complete")
 
+st.markdown("Prepared for the **AICTE Internship Cycle 2 by JANANI BS**")
